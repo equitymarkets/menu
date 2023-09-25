@@ -1,8 +1,16 @@
 [
     {
-        "item": "4 Hand Rolled Spring Rolls",
+        "item": "Hand Rolled Spring Rolls",
         "type": "Appetizers",
         "description": "Deep-fried crispy veggie spring rolls served with sweet chili sauce",
-        "price": 5.99
+        "price": 5.99,
+        "quantity": 4
+    },
+    {
+        "item": "Hand Folded Crab Rangoon",
+        "type": "Appetizers",
+        "description": "Fried crispy cream cheese with crab meat wonton served with sweet chili sauce",
+        "price": 6.99,
+        "quantity": 5
     }
 ]
