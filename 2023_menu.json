@@ -25,21 +25,21 @@
         "type": "Appetizers",
         "description": "Hot and crispy fried tofu served with our special sweet sauce with ground peanut",
         "price": 5.99,
-        "quantity" 12: 
+        "quantity": 12 
     },
     {
         "item": "Shrimp Roll",
         "type": "Appetizers",
         "description": "Deep-fried crispy marinated shrimp rolls served with sweet chili sauce",
         "price": 7.99,
-        "quantity" 5: 
+        "quantity": 5 
     },
     {
         "item": "Shrimp Tempura",
         "type": "Appetizers",
         "description": "Deep-fried breaded shrimp served with sweet chili sauce",
         "price": 7.99,
-        "quantity" 5: 
+        "quantity": 5 
     },
     {
         "item": "Shrimp Dumpling",
@@ -53,28 +53,28 @@
         "type": "Appetizers",
         "description": "Deep-fried until golden brown calamari served with sweet chili sauce",
         "price": 9.99,
-        "quantity" 8: 
+        "quantity": 8 
     },
     {
         "item": "Pork Gyoza",
         "type": "Appetizers",
         "description": "Pan-fried pork dumpling served with home made sweet soy sauce",
         "price": 7.99,
-        "quantity" 6: 
+        "quantity": 6 
     },
     {
         "item": "Veggie Gyoza",
         "type": "Appetizers",
         "description": "Pan-fried veggie dumpling served with home made sweet soy sauce",
         "price": 7.99,
-        "quantity" 6: 
+        "quantity": 6 
     },
     {
         "item": "Thai Herb Wings",
         "type": "Appetizers",
         "description": "Deep-fried Thai herb-marinated chicken wings served with homemade Sunrise sauce",
         "price": 9.99,
-        "quantity" 6: 
+        "quantity": 6 
     },
     {
         "item": "Thai Herb Fried Chicken Thigh",
