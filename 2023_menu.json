@@ -80,19 +80,20 @@
         "item": "Thai Herb Fried Chicken Thigh",
         "type": "Appetizers",
         "description": "Deep fried thai herb marinated boneless chicken thigh",
-        "price": 7.99
+        "price": 7.99,
+        "quantity": 1
     },
     {
         "item": "Sunrise Sampler",
         "type": "Appetizers",
         "description": "Combination of 3 spring rolls, 3 crab rangoon, and 3 shrimp rolls",
-        "price": 12.99
-
+        "price": 12.99,
+        "quantity": 1
     },
     {
-        "item": "",
-        "type": "Appetizers",
-        "description": "",
+        "item": "Tom Yum Soup",
+        "type": "Soup",
+        "description": "A savory spicy and sour soup seasonal with exotic Thai herb, mushroom, lemongrass, kaffir lime leaves topped with cilantro",
         "price": ,
         "quantity": 
     },
