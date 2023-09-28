@@ -7,4 +7,4 @@ Step 1: Database
 Step 2: Backend basics
 Step 3: Forms, ordering, payment options
 Step 4: Mobile-first web design
-Step 5: Responsive, dynamic, and semantic design tweeks
+Step 5: Responsive, dynamic, and semantic design tweaks
